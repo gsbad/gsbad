@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsbad/)
 [![Gmail](https://img.shields.io/badge/gsbadbr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsbadbr@gmail.com)
 [![Twitter](https://img.shields.io/badge/1sefir0t1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/1sefir0t1)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yn73zkrs11xmlz1pz896pa057)
 
 # :star: Badges
 

@@ -4,6 +4,12 @@
 [![Twitter](https://img.shields.io/badge/1sefir0t1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/1sefir0t1)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yn73zkrs11xmlz1pz896pa057)
 
+# :white_check_mark: Profile Stats
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsbad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsbad&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
 # :star: Badges
 
 ## Languages
@@ -27,9 +33,3 @@
 
 ## Cloud Providers
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ](#)
-
-## :white_check_mark: Profile Stats ##
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsbad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsbad&layout=compact&langs_count=10&theme=dark"/>
-</div>

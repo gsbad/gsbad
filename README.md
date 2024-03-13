@@ -29,4 +29,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ](#)
 
 ## :white_check_mark: Profile Stats ##
-[![My stats](https://github-readme-stats.vercel.app/api?username=gsbad&show_icons=true)](#)
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsbad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsbad&layout=compact&langs_count=10&theme=dark"/>
+</div>

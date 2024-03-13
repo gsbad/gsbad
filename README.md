@@ -32,4 +32,4 @@
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ## Cloud Providers
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ](#)
+[![AWS](https://img.shields.io/badge/AMAZON_AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ](#)

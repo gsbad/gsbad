@@ -1,6 +1,8 @@
 <!--
   gsbad/README.md — perfil GitHub
   Paleta: bg #0B0E14 · raised #12161F · teal #2DD4C8 · violet #A78BFA · amber #F2B953 · muted #8A92A8
+  Badges: estilo "escuro + ícone colorido, chunky" — fundo neutro em todo badge, cor só no ícone
+  (contraste alto; a versão anterior tinha fundo na cor de acento com texto branco, ilegível no teal/âmbar).
   Badges/cards abaixo são gerados ao vivo por serviços externos — só renderizam de verdade em github.com.
 -->
 
@@ -12,9 +14,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fgsbad-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=linkedin&logoColor=2DD4C8)](https://linkedin.com/in/gsbad)
-[![Email](https://img.shields.io/badge/Email-gsbadbr%40gmail.com-12161F?style=flat-square&labelColor=0B0E14&color=A78BFA&logo=gmail&logoColor=A78BFA)](mailto:gsbadbr@gmail.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1sefirot1-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=spotify&logoColor=2DD4C8)](https://open.spotify.com/user/1sefirot1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fgsbad-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=linkedin&logoColor=2DD4C8)](https://linkedin.com/in/gsbad)
+[![Email](https://img.shields.io/badge/Email-gsbadbr%40gmail.com-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=gmail&logoColor=A78BFA)](mailto:gsbadbr@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1sefirot1-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=spotify&logoColor=2DD4C8)](https://open.spotify.com/user/1sefirot1)
 
 </div>
 
@@ -39,34 +41,34 @@ aplicada a projetos de um único desenvolvedor, **local-first**.
 <table>
 <tr><td width="110"><b>Backend</b></td><td>
 
-![Python](https://img.shields.io/badge/Python-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=python&logoColor=2DD4C8)
-![FastAPI](https://img.shields.io/badge/FastAPI-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=fastapi&logoColor=2DD4C8)
-![Java 21](https://img.shields.io/badge/Java_21-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=openjdk&logoColor=2DD4C8)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=springboot&logoColor=2DD4C8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12161F?style=flat-square&labelColor=0B0E14&color=A78BFA&logo=postgresql&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=python&logoColor=2DD4C8)
+![FastAPI](https://img.shields.io/badge/FastAPI-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=fastapi&logoColor=2DD4C8)
+![Java 21](https://img.shields.io/badge/Java_21-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=openjdk&logoColor=2DD4C8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=springboot&logoColor=2DD4C8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=postgresql&logoColor=A78BFA)
 
 </td></tr>
 <tr><td><b>Frontend</b></td><td>
 
-![Jinja2](https://img.shields.io/badge/Jinja2-12161F?style=flat-square&labelColor=0B0E14&color=A78BFA&logo=jinja&logoColor=A78BFA)
-![htmx](https://img.shields.io/badge/htmx-12161F?style=flat-square&labelColor=0B0E14&color=A78BFA&logo=htmx&logoColor=A78BFA)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-12161F?style=flat-square&labelColor=0B0E14&color=A78BFA&logo=alpinedotjs&logoColor=A78BFA)
+![Jinja2](https://img.shields.io/badge/Jinja2-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=jinja&logoColor=A78BFA)
+![htmx](https://img.shields.io/badge/htmx-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=htmx&logoColor=A78BFA)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=alpinedotjs&logoColor=A78BFA)
 
 </td></tr>
 <tr><td><b>Plataforma</b></td><td>
 
-![Docker](https://img.shields.io/badge/Docker-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=docker&logoColor=2DD4C8)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=kubernetes&logoColor=2DD4C8)
-![Helm](https://img.shields.io/badge/Helm-12161F?style=flat-square&labelColor=0B0E14&color=2DD4C8&logo=helm&logoColor=2DD4C8)
-![Prometheus](https://img.shields.io/badge/Prometheus-12161F?style=flat-square&labelColor=0B0E14&color=F2B953&logo=prometheus&logoColor=F2B953)
-![Grafana](https://img.shields.io/badge/Grafana-12161F?style=flat-square&labelColor=0B0E14&color=F2B953&logo=grafana&logoColor=F2B953)
+![Docker](https://img.shields.io/badge/Docker-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=docker&logoColor=2DD4C8)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=kubernetes&logoColor=2DD4C8)
+![Helm](https://img.shields.io/badge/Helm-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=helm&logoColor=2DD4C8)
+![Prometheus](https://img.shields.io/badge/Prometheus-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=prometheus&logoColor=F2B953)
+![Grafana](https://img.shields.io/badge/Grafana-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=grafana&logoColor=F2B953)
 
 </td></tr>
 <tr><td><b>Deploy</b></td><td>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-12161F?style=flat-square&labelColor=0B0E14&color=F2B953&logo=githubactions&logoColor=F2B953)
-![GHCR](https://img.shields.io/badge/GHCR-12161F?style=flat-square&labelColor=0B0E14&color=F2B953&logo=github&logoColor=F2B953)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_%C2%B7_Ampere_A1-12161F?style=flat-square&labelColor=0B0E14&color=F2B953&logo=oracle&logoColor=F2B953)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=githubactions&logoColor=F2B953)
+![GHCR](https://img.shields.io/badge/GHCR-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=github&logoColor=F2B953)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_%C2%B7_Ampere_A1-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=oracle&logoColor=F2B953)
 
 </td></tr>
 </table>
@@ -93,9 +95,9 @@ aplicada a projetos de um único desenvolvedor, **local-first**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-in%2Fgsbad-12161F?style=for-the-badge&labelColor=0B0E14&color=2DD4C8&logo=linkedin&logoColor=2DD4C8)](https://linkedin.com/in/gsbad)
-[![Email](https://img.shields.io/badge/-gsbadbr%40gmail.com-12161F?style=for-the-badge&labelColor=0B0E14&color=A78BFA&logo=gmail&logoColor=A78BFA)](mailto:gsbadbr@gmail.com)
-[![Spotify](https://img.shields.io/badge/-1sefirot1-12161F?style=for-the-badge&labelColor=0B0E14&color=2DD4C8&logo=spotify&logoColor=2DD4C8)](https://open.spotify.com/user/1sefirot1)
+[![LinkedIn](https://img.shields.io/badge/-in%2Fgsbad-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=linkedin&logoColor=2DD4C8)](https://linkedin.com/in/gsbad)
+[![Email](https://img.shields.io/badge/-gsbadbr%40gmail.com-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=gmail&logoColor=A78BFA)](mailto:gsbadbr@gmail.com)
+[![Spotify](https://img.shields.io/badge/-1sefirot1-12161F?style=for-the-badge&labelColor=0B0E14&color=12161F&logo=spotify&logoColor=2DD4C8)](https://open.spotify.com/user/1sefirot1)
 
 </div>
 

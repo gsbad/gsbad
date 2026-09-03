@@ -77,10 +77,7 @@ aplicada a projetos de um único desenvolvedor, **local-first**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gsbad&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4C8&text_color=E7E9F0&icon_color=A78BFA&bg_color=00000000" alt="gsbad's GitHub stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gsbad&theme=transparent&hide_border=true&background=00000000&ring=2DD4C8&fire=F2B953&currStreakLabel=2DD4C8&sideLabels=8A92A8&currStreakNum=E7E9F0&sideNums=E7E9F0&dates=565F74" alt="gsbad's streak stats"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gsbad&theme=react-dark&bg_color=00000000&color=8A92A8&line=2DD4C8&point=A78BFA&hide_border=true&area=true&area_color=2DD4C8" alt="gsbad's activity graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsbad/gsbad/output/github-contribution-grid-snake-dark.svg" />
